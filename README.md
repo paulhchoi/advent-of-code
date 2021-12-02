@@ -4,9 +4,13 @@ This is a repo to work through the daily toy puzzles available at [adventofcode.
 
 ### Setup
 
+This repo uses virtualenv to manage python, so this script just helps source the right env before starting.
+
 `sh start.sh`
 
 ### Running the problems
+
+The template files (starting day 3) will use a `2` flag as an argument to run the second part of the puzzles.
 
 for part1: `python 2021/day1.py`
 
